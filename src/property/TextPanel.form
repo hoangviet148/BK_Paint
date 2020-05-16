@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup1">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup2">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup3">
+    </Component>
+  </NonVisualComponents>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="jComboBox2" min="-2" pref="41" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jToggleButton5" min="-2" pref="41" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jToggleButton1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="jToggleButton2" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="jComboBox1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="jToggleButton4" max="32767" attributes="0"/>
+                  <Component id="jToggleButton3" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="jToggleButton3" min="-2" pref="34" max="-2" attributes="0"/>
+                  <Component id="jComboBox1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jComboBox2" min="-2" pref="31" max="-2" attributes="0"/>
+                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                      <Component id="jToggleButton4" alignment="3" min="-2" pref="34" max="-2" attributes="0"/>
+                      <Component id="jToggleButton2" alignment="3" min="-2" pref="31" max="-2" attributes="0"/>
+                      <Component id="jToggleButton1" alignment="3" min="-2" pref="31" max="-2" attributes="0"/>
+                      <Component id="jToggleButton5" alignment="3" min="-2" pref="31" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JComboBox" name="jComboBox1">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="268">
+            <StringItem index="0" value="Agency FB"/>
+            <StringItem index="1" value="Aharoni"/>
+            <StringItem index="2" value="Algerian"/>
+            <StringItem index="3" value="Andalus"/>
+            <StringItem index="4" value="Angsana New"/>
+            <StringItem index="5" value="AngsanaUPC"/>
+            <StringItem index="6" value="Aparajita"/>
+            <StringItem index="7" value="Arabic Typesetting"/>
+            <StringItem index="8" value="Arial"/>
+            <StringItem index="9" value="Arial Black"/>
+            <StringItem index="10" value="Arial Narrow"/>
+            <StringItem index="11" value="Arial Rounded MT Bold"/>
+            <StringItem index="12" value="Arial Unicode MS"/>
+            <StringItem index="13" value="Baskerville Old Face"/>
+            <StringItem index="14" value="Batang"/>
+            <StringItem index="15" value="BatangChe"/>
+            <StringItem index="16" value="Bauhaus 93"/>
+            <StringItem index="17" value="Bell MT"/>
+            <StringItem index="18" value="Berlin Sans FB"/>
+            <StringItem index="19" value="Berlin Sans FB Demi"/>
+            <StringItem index="20" value="Bernard MT Condensed"/>
+            <StringItem index="21" value="Blackadder ITC"/>
+            <StringItem index="22" value="Bodoni MT"/>
+            <StringItem index="23" value="Bodoni MT Black"/>
+            <StringItem index="24" value="Bodoni MT Condensed"/>
+            <StringItem index="25" value="Bodoni MT Poster Compressed"/>
+            <StringItem index="26" value="Book Antiqua"/>
+            <StringItem index="27" value="Bookman Old Style"/>
+            <StringItem index="28" value="Bookshelf Symbol 7"/>
+            <StringItem index="29" value="Bradley Hand ITC"/>
+            <StringItem index="30" value="Britannic Bold"/>
+            <StringItem index="31" value="Broadway"/>
+            <StringItem index="32" value="Browallia New"/>
+            <StringItem index="33" value="BrowalliaUPC"/>
+            <StringItem index="34" value="Brush Script MT"/>
+            <StringItem index="35" value="Calibri"/>
+            <StringItem index="36" value="Calibri Light"/>
+            <StringItem index="37" value="Californian FB"/>
+            <StringItem index="38" value="Calisto MT"/>
+            <StringItem index="39" value="Cambria"/>
+            <StringItem index="40" value="Cambria Math"/>
+            <StringItem index="41" value="Candara"/>
+            <StringItem index="42" value="Castellar"/>
+            <StringItem index="43" value="Centaur"/>
+            <StringItem index="44" value="Century"/>
+            <StringItem index="45" value="Century Gothic"/>
+            <StringItem index="46" value="Century Schoolbook"/>
+            <StringItem index="47" value="Chiller"/>
+            <StringItem index="48" value="Colonna MT"/>
+            <StringItem index="49" value="Comic Sans MS"/>
+            <StringItem index="50" value="Consolas"/>
+            <StringItem index="51" value="Constantia"/>
+            <StringItem index="52" value="Cooper Black"/>
+            <StringItem index="53" value="Copperplate Gothic Bold"/>
+            <StringItem index="54" value="Copperplate Gothic Light"/>
+            <StringItem index="55" value="Corbel"/>
+            <StringItem index="56" value="Cordia New"/>
+            <StringItem index="57" value="CordiaUPC"/>
+            <StringItem index="58" value="Courier New"/>
+            <StringItem index="59" value="Curlz MT"/>
+            <StringItem index="60" value="DaunPenh"/>
+            <StringItem index="61" value="David"/>
+            <StringItem index="62" value="DFKai-SB"/>
+            <StringItem index="63" value="Dialog"/>
+            <StringItem index="64" value="DialogInput"/>
+            <StringItem index="65" value="DilleniaUPC"/>
+            <StringItem index="66" value="DokChampa"/>
+            <StringItem index="67" value="Dotum"/>
+            <StringItem index="68" value="DotumChe"/>
+            <StringItem index="69" value="Ebrima"/>
+            <StringItem index="70" value="Edwardian Script ITC"/>
+            <StringItem index="71" value="Elephant"/>
+            <StringItem index="72" value="Engravers MT"/>
+            <StringItem index="73" value="Eras Bold ITC"/>
+            <StringItem index="74" value="Eras Demi ITC"/>
+            <StringItem index="75" value="Eras Light ITC"/>
+            <StringItem index="76" value="Eras Medium ITC"/>
+            <StringItem index="77" value="Estrangelo Edessa"/>
+            <StringItem index="78" value="Euclid"/>
+            <StringItem index="79" value="Euclid Extra"/>
+            <StringItem index="80" value="Euclid Fraktur"/>
+            <StringItem index="81" value="Euclid Math One"/>
+            <StringItem index="82" value="Euclid Math Two"/>
+            <StringItem index="83" value="Euclid Symbol"/>
+            <StringItem index="84" value="EucrosiaUPC"/>
+            <StringItem index="85" value="Euphemia"/>
+            <StringItem index="86" value="FangSong"/>
+            <StringItem index="87" value="Felix Titling"/>
+            <StringItem index="88" value="Fences"/>
+            <StringItem index="89" value="Footlight MT Light"/>
+            <StringItem index="90" value="Forte"/>
+            <StringItem index="91" value="Franklin Gothic Book"/>
+            <StringItem index="92" value="Franklin Gothic Demi"/>
+            <StringItem index="93" value="Franklin Gothic Demi Cond"/>
+            <StringItem index="94" value="Franklin Gothic Heavy"/>
+            <StringItem index="95" value="Franklin Gothic Medium"/>
+            <StringItem index="96" value="Franklin Gothic Medium Cond"/>
+            <StringItem index="97" value="FrankRuehl"/>
+            <StringItem index="98" value="FreesiaUPC"/>
+            <StringItem index="99" value="Freestyle Script"/>
+            <StringItem index="100" value="French Script MT"/>
+            <StringItem index="101" value="Gabriola"/>
+            <StringItem index="102" value="Garamond"/>
+            <StringItem index="103" value="Gautami"/>
+            <StringItem index="104" value="Georgia"/>
+            <StringItem index="105" value="Gigi"/>
+            <StringItem index="106" value="Gill Sans MT"/>
+            <StringItem index="107" value="Gill Sans MT Condensed"/>
+            <StringItem index="108" value="Gill Sans MT Ext Condensed Bold"/>
+            <StringItem index="109" value="Gill Sans Ultra Bold"/>
+            <StringItem index="110" value="Gill Sans Ultra Bold Condensed"/>
+            <StringItem index="111" value="Gisha"/>
+            <StringItem index="112" value="Gloucester MT Extra Condensed"/>
+            <StringItem index="113" value="Goudy Old Style"/>
+            <StringItem index="114" value="Goudy Stout"/>
+            <StringItem index="115" value="Gulim"/>
+            <StringItem index="116" value="GulimChe"/>
+            <StringItem index="117" value="Gungsuh"/>
+            <StringItem index="118" value="GungsuhChe"/>
+            <StringItem index="119" value="Haettenschweiler"/>
+            <StringItem index="120" value="Harlow Solid Italic"/>
+            <StringItem index="121" value="Harrington"/>
+            <StringItem index="122" value="High Tower Text"/>
+            <StringItem index="123" value="Impact"/>
+            <StringItem index="124" value="Imprint MT Shadow"/>
+            <StringItem index="125" value="Informal Roman"/>
+            <StringItem index="126" value="IrisUPC"/>
+            <StringItem index="127" value="Iskoola Pota"/>
+            <StringItem index="128" value="JasmineUPC"/>
+            <StringItem index="129" value="Jokerman"/>
+            <StringItem index="130" value="Juice ITC"/>
+            <StringItem index="131" value="KaiTi"/>
+            <StringItem index="132" value="Kalinga"/>
+            <StringItem index="133" value="Kartika"/>
+            <StringItem index="134" value="Khmer UI"/>
+            <StringItem index="135" value="KodchiangUPC"/>
+            <StringItem index="136" value="Kokila"/>
+            <StringItem index="137" value="Kristen ITC"/>
+            <StringItem index="138" value="Kunstler Script"/>
+            <StringItem index="139" value="Lao UI"/>
+            <StringItem index="140" value="Latha"/>
+            <StringItem index="141" value="Leelawadee"/>
+            <StringItem index="142" value="Levenim MT"/>
+            <StringItem index="143" value="LilyUPC"/>
+            <StringItem index="144" value="Lingoes Unicode"/>
+            <StringItem index="145" value="Lucida Bright"/>
+            <StringItem index="146" value="Lucida Calligraphy"/>
+            <StringItem index="147" value="Lucida Console"/>
+            <StringItem index="148" value="Lucida Fax"/>
+            <StringItem index="149" value="Lucida Handwriting"/>
+            <StringItem index="150" value="Lucida Sans"/>
+            <StringItem index="151" value="Lucida Sans Typewriter"/>
+            <StringItem index="152" value="Lucida Sans Unicode"/>
+            <StringItem index="153" value="Magneto"/>
+            <StringItem index="154" value="Maiandra GD"/>
+            <StringItem index="155" value="Malgun Gothic"/>
+            <StringItem index="156" value="Mangal"/>
+            <StringItem index="157" value="Marlett"/>
+            <StringItem index="158" value="Matura MT Script Capitals"/>
+            <StringItem index="159" value="Meiryo"/>
+            <StringItem index="160" value="Meiryo UI"/>
+            <StringItem index="161" value="Microsoft Himalaya"/>
+            <StringItem index="162" value="Microsoft JhengHei"/>
+            <StringItem index="163" value="Microsoft New Tai Lue"/>
+            <StringItem index="164" value="Microsoft PhagsPa"/>
+            <StringItem index="165" value="Microsoft Sans Serif"/>
+            <StringItem index="166" value="Microsoft Tai Le"/>
+            <StringItem index="167" value="Microsoft Uighur"/>
+            <StringItem index="168" value="Microsoft YaHei"/>
+            <StringItem index="169" value="Microsoft Yi Baiti"/>
+            <StringItem index="170" value="MingLiU"/>
+            <StringItem index="171" value="MingLiU-ExtB"/>
+            <StringItem index="172" value="MingLiU_HKSCS"/>
+            <StringItem index="173" value="MingLiU_HKSCS-ExtB"/>
+            <StringItem index="174" value="Miriam"/>
+            <StringItem index="175" value="Miriam Fixed"/>
+            <StringItem index="176" value="Mistral"/>
+            <StringItem index="177" value="Modern No. 20"/>
+            <StringItem index="178" value="Mongolian Baiti"/>
+            <StringItem index="179" value="Monospaced"/>
+            <StringItem index="180" value="Monotype Corsiva"/>
+            <StringItem index="181" value="MoolBoran"/>
+            <StringItem index="182" value="MS Gothic"/>
+            <StringItem index="183" value="MS Mincho"/>
+            <StringItem index="184" value="MS Outlook"/>
+            <StringItem index="185" value="MS PGothic"/>
+            <StringItem index="186" value="MS PMincho"/>
+            <StringItem index="187" value="MS Reference Sans Serif"/>
+            <StringItem index="188" value="MS Reference Specialty"/>
+            <StringItem index="189" value="MS UI Gothic"/>
+            <StringItem index="190" value="MT Extra"/>
+            <StringItem index="191" value="MT Extra Tiger"/>
+            <StringItem index="192" value="MV Boli"/>
+            <StringItem index="193" value="Narkisim"/>
+            <StringItem index="194" value="Niagara Engraved"/>
+            <StringItem index="195" value="Niagara Solid"/>
+            <StringItem index="196" value="NSimSun"/>
+            <StringItem index="197" value="Nyala"/>
+            <StringItem index="198" value="OCR A Extended"/>
+            <StringItem index="199" value="Old English Text MT"/>
+            <StringItem index="200" value="Onyx"/>
+            <StringItem index="201" value="Palace Script MT"/>
+            <StringItem index="202" value="Palatino Linotype"/>
+            <StringItem index="203" value="Papyrus"/>
+            <StringItem index="204" value="Parchment"/>
+            <StringItem index="205" value="Perpetua"/>
+            <StringItem index="206" value="Perpetua Titling MT"/>
+            <StringItem index="207" value="Plantagenet Cherokee"/>
+            <StringItem index="208" value="Playbill"/>
+            <StringItem index="209" value="PMingLiU"/>
+            <StringItem index="210" value="PMingLiU-ExtB"/>
+            <StringItem index="211" value="Poor Richard"/>
+            <StringItem index="212" value="Pristina"/>
+            <StringItem index="213" value="Raavi"/>
+            <StringItem index="214" value="Rage Italic"/>
+            <StringItem index="215" value="Ravie"/>
+            <StringItem index="216" value="Rockwell"/>
+            <StringItem index="217" value="Rockwell Condensed"/>
+            <StringItem index="218" value="Rockwell Extra Bold"/>
+            <StringItem index="219" value="Rod"/>
+            <StringItem index="220" value="Sakkal Majalla"/>
+            <StringItem index="221" value="SansSerif"/>
+            <StringItem index="222" value="Script MT Bold"/>
+            <StringItem index="223" value="Segoe Print"/>
+            <StringItem index="224" value="Segoe Script"/>
+            <StringItem index="225" value="Segoe UI"/>
+            <StringItem index="226" value="Segoe UI Light"/>
+            <StringItem index="227" value="Segoe UI Semibold"/>
+            <StringItem index="228" value="Segoe UI Symbol"/>
+            <StringItem index="229" value="Serif"/>
+            <StringItem index="230" value="Shonar Bangla"/>
+            <StringItem index="231" value="Showcard Gothic"/>
+            <StringItem index="232" value="Shruti"/>
+            <StringItem index="233" value="SimHei"/>
+            <StringItem index="234" value="Simplified Arabic"/>
+            <StringItem index="235" value="Simplified Arabic Fixed"/>
+            <StringItem index="236" value="SimSun"/>
+            <StringItem index="237" value="SimSun-ExtB"/>
+            <StringItem index="238" value="Snap ITC"/>
+            <StringItem index="239" value="Stencil"/>
+            <StringItem index="240" value="Sylfaen"/>
+            <StringItem index="241" value="Symbol"/>
+            <StringItem index="242" value="Symbol Tiger"/>
+            <StringItem index="243" value="Symbol Tiger Expert"/>
+            <StringItem index="244" value="Tahoma"/>
+            <StringItem index="245" value="Tempus Sans ITC"/>
+            <StringItem index="246" value="Tiger"/>
+            <StringItem index="247" value="Tiger Expert"/>
+            <StringItem index="248" value="Times New Roman"/>
+            <StringItem index="249" value="Traditional Arabic"/>
+            <StringItem index="250" value="Trebuchet MS"/>
+            <StringItem index="251" value="Tunga"/>
+            <StringItem index="252" value="Tw Cen MT"/>
+            <StringItem index="253" value="Tw Cen MT Condensed"/>
+            <StringItem index="254" value="Tw Cen MT Condensed Extra Bold"/>
+            <StringItem index="255" value="Utsaah"/>
+            <StringItem index="256" value="Vani"/>
+            <StringItem index="257" value="Verdana"/>
+            <StringItem index="258" value="Vijaya"/>
+            <StringItem index="259" value="Viner Hand ITC"/>
+            <StringItem index="260" value="Vivaldi"/>
+            <StringItem index="261" value="Vladimir Script"/>
+            <StringItem index="262" value="Vrinda"/>
+            <StringItem index="263" value="Webdings"/>
+            <StringItem index="264" value="Wide Latin"/>
+            <StringItem index="265" value="Wingdings"/>
+            <StringItem index="266" value="Wingdings 2"/>
+            <StringItem index="267" value="Wingdings 3"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="itemStateChanged" listener="java.awt.event.ItemListener" parameters="java.awt.event.ItemEvent" handler="jComboBox1ItemStateChanged"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox2">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="17">
+            <StringItem index="0" value="8"/>
+            <StringItem index="1" value="9"/>
+            <StringItem index="2" value="10"/>
+            <StringItem index="3" value="10"/>
+            <StringItem index="4" value="11"/>
+            <StringItem index="5" value="12"/>
+            <StringItem index="6" value="14"/>
+            <StringItem index="7" value="16"/>
+            <StringItem index="8" value="18"/>
+            <StringItem index="9" value="20"/>
+            <StringItem index="10" value="22"/>
+            <StringItem index="11" value="24"/>
+            <StringItem index="12" value="26"/>
+            <StringItem index="13" value="28"/>
+            <StringItem index="14" value="36"/>
+            <StringItem index="15" value="48"/>
+            <StringItem index="16" value="72"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="itemStateChanged" listener="java.awt.event.ItemListener" parameters="java.awt.event.ItemEvent" handler="jComboBox2ItemStateChanged"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="jToggleButton1">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="buttonGroup1"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="11" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="B"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jToggleButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="jToggleButton2">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="buttonGroup1"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="11" style="2"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="I"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jToggleButton2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="jToggleButton3">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="buttonGroup3"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Opaque"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jToggleButton3ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="jToggleButton4">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="buttonGroup3"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Transparent"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jToggleButton4ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="jToggleButton5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="P"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jToggleButton5ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
